@@ -98,6 +98,12 @@ body {
     opacity: 0.95;
 }
 
+.etsy-highlight .etsy-logo {
+    height: 32px;
+    width: auto;
+    flex-shrink: 0;
+}
+
 .text-content {
     display: flex;
     flex-direction: column;
